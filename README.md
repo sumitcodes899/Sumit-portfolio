@@ -10,6 +10,6 @@ Included:
 - Scroll reveal animations
 - Projects, skills, education, achievements and certifications from the supplied resume
 - Downloadable original resume
-- Extracted profile photo from the supplied photo PDF
 
-Before publishing, replace the LinkedIn / LeetCode / GitHub placeholders with the exact URLs.
+
+
